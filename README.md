@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/fogonapps/fogon/main/apps/ahorrador/fastlane/metadata/android/en-US/images/icon.png" width="140" alt="El Ahorrador"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/fogonapps/fogon/main/apps/ahorrador/fastlane/metadata/android/en-US/images/icon.png" width="140" alt="La Alcancía"></p>
 
-# El Ahorrador
+# La Alcancía
 
 Tus cuentas, gastos, sobres y metas. Sin anuncios, sin rastreo y sin internet: tus datos se quedan en tu teléfono.
 
@@ -8,8 +8,8 @@ Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a dí
 
 ## Instalar
 
-- **Con [Obtainium](https://github.com/ImranR98/Obtainium)** (se actualiza sola): Añadir aplicación → pega `https://github.com/fogonapps/el-ahorrador` → Añadir.
-- **A mano:** baja el APK de la [última versión](https://github.com/fogonapps/el-ahorrador/releases/latest) y ábrelo en el teléfono.
+- **Con [Obtainium](https://github.com/ImranR98/Obtainium)** (se actualiza sola): Añadir aplicación → pega `https://github.com/fogonapps/la-alcancia` → Añadir.
+- **A mano:** baja el APK de la [última versión](https://github.com/fogonapps/la-alcancia/releases/latest) y ábrelo en el teléfono.
 
 Este repo solo guarda las versiones para instalar. **El código está en [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/ahorrador)**, con licencia GPL-3.0-or-later. Problemas o ideas: [issues de Fogón](https://github.com/fogonapps/fogon/issues).
 
@@ -17,4 +17,4 @@ Paquete `io.github.fogonapps.ahorrador`. Certificado de firma (SHA-256): `ce5406
 
 ---
 
-**English.** Your accounts, spending, envelopes and goals. No ads, no tracking and no internet: your data stays on your phone. Install with Obtainium (paste `https://github.com/fogonapps/el-ahorrador`) or grab the APK from the [latest release](https://github.com/fogonapps/el-ahorrador/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/ahorrador) (GPL-3.0-or-later).
+**English.** Your accounts, spending, envelopes and goals. No ads, no tracking and no internet: your data stays on your phone. Install with Obtainium (paste `https://github.com/fogonapps/la-alcancia`) or grab the APK from the [latest release](https://github.com/fogonapps/la-alcancia/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/ahorrador) (GPL-3.0-or-later).
