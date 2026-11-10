@@ -2,7 +2,7 @@
 
 # La Alcancía
 
-Tus cuentas, gastos, sobres y metas. Sin anuncios ni rastreo: tus datos se quedan en tu teléfono. Solo usa internet si entras con tu cuenta de Fogón Social (opcional), y de ahí solo salen los logros que compartas, nunca montos.
+Tus cuentas, gastos, sobres y metas. Sin anuncios ni rastreo: tus datos se quedan en tu teléfono. Solo usa internet si entras con tu cuenta de Fogón Social (opcional): tu cuaderno se guarda en ella cifrado con tu contraseña y en la red solo salen los logros que compartas, nunca montos.
 
 Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones, sin anuncios ni rastreo.
 
@@ -17,4 +17,4 @@ Paquete `io.github.fogonapps.ahorrador`. Certificado de firma (SHA-256): `ce5406
 
 ---
 
-**English.** Your accounts, spending, envelopes and goals. No ads, no tracking: your data stays on your phone. It only uses the internet if you sign in with your Fogón Social account (optional), and only the achievements you share go out, never amounts. Install with Obtainium (paste `https://github.com/fogonapps/la-alcancia`) or grab the APK from the [latest release](https://github.com/fogonapps/la-alcancia/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/ahorrador) (GPL-3.0-or-later).
+**English.** Your accounts, spending, envelopes and goals. No ads, no tracking: your data stays on your phone. It only uses the internet if you sign in with your Fogón Social account (optional): your notebook is saved there encrypted with your password and only the achievements you share appear on the network, never amounts. Install with Obtainium (paste `https://github.com/fogonapps/la-alcancia`) or grab the APK from the [latest release](https://github.com/fogonapps/la-alcancia/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/ahorrador) (GPL-3.0-or-later).
